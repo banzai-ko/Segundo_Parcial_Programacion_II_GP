@@ -68,4 +68,4 @@ ISerializable
 --
 + ProductoExisteException</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>880</x><y>760</y><w>230</w><h>70</h></coordinates><panel_attributes>ProductoVencidoException
 --
-+ ProductoVencidoException</panel_attributes><additional_attributes></additional_attributes></element></diagram>
++ ProductoVencidoException</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>210</x><y>610</y><w>660</w><h>220</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>640;200;10;200;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>310</x><y>580</y><w>570</w><h>160</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>550;140;10;140;10;10</additional_attributes></element></diagram>
