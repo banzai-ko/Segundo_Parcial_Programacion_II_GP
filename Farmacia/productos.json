@@ -1,0 +1,14 @@
+[
+  {
+    "requiereReceta": true,
+    "nombreComercial": "asdasd",
+    "dosis": "100mg",
+    "fechaVencimiento": "2025-06-27"
+  },
+  {
+    "objetivo": "DEPORTIVO",
+    "nombreComercial": "Creatina",
+    "dosis": "30g",
+    "fechaVencimiento": "2025-07-04"
+  }
+]
