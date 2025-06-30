@@ -1,4 +1,4 @@
-# Segundo_Parcial_Programacion_II_GenaroPennone
-Segundo Parcial Programacion II Genaro Pennone
+# Segundo_Parcial_Programacion_II_GP
+Segundo Parcial Programacion II
 
 ![Diagrama](diagram.png)
